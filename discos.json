@@ -1,0 +1,147 @@
+[
+  {
+    "artista": "The Beatles",
+    "titulo": "Abbey Road",
+    "lanzamiento": 1968,
+    "tapa": "the-beatles-abbey-road.jpg"
+  },
+  {
+    "artista": "The Rolling Stones",
+    "titulo": "Flashpoint",
+    "lanzamiento": 1991,
+    "tapa": "the-rolling-stones-flashpoint.jpg"
+  },
+  {
+    "artista": "Collective Soul",
+    "titulo": "Live",
+    "lanzamiento": 2017,
+    "tapa": "collective-soul-live.jpg"
+  },
+  {
+    "artista": "Pearl Jam",
+    "titulo": "Ten",
+    "lanzamiento": 1991,
+    "tapa": "pearl-jam-ten.jpg"
+  },
+  {
+    "artista": "Queen",
+    "titulo": "A Night at the Opera",
+    "lanzamiento": 1975,
+    "tapa": "queen-a-night-at-the-opera.jpg"
+  },
+  {
+    "artista": "Arcade Fire",
+    "titulo": "Everything Now",
+    "lanzamiento": 2017,
+    "tapa": "arcade-fire-everything-now.jpg"
+  },
+  {
+    "artista": "INXS",
+    "titulo": "Kick",
+    "lanzamiento": 1987,
+    "tapa": "inxs-kick.jpg"
+  },
+  {
+    "artista": "The Cult",
+    "titulo": "Ceremony",
+    "lanzamiento": 1991,
+    "tapa": "the-cult-ceremony.jpg"
+  },
+  {
+    "artista": "Jamiroquai",
+    "titulo": "Automaton",
+    "lanzamiento": 2017,
+    "tapa": "jamiroquai-automaton.jpg"
+  },
+  {
+    "artista": "La Roux",
+    "titulo": "Trouble in Paradise",
+    "lanzamiento": 2014,
+    "tapa": "la-roux-trouble-in-paradise.jpg"
+  },
+  {
+    "artista": "Depeche Mode",
+    "titulo": "Playing the Angel",
+    "lanzamiento": 2005,
+    "tapa": "depeche-mode-playing-the-angel.jpg"
+  },
+  {
+    "artista": "The Magic Numbers",
+    "titulo": "The Magic Numbers",
+    "lanzamiento": 2005,
+    "tapa": "the-magic-numbers-the-magic-numbers.jpg"
+  },
+  {
+    "artista": "Kings of Leon",
+    "titulo": "Only by the Night",
+    "lanzamiento": 2008,
+    "tapa": "kings-of-leon-only-by-the-night.jpg"
+  },
+  {
+    "artista": "Fito Páez",
+    "titulo": "El Amor Después del Amor",
+    "lanzamiento": 1992,
+    "tapa": "fito-paez-el-amor-despues-del-amor.jpg"
+  },
+  {
+    "artista": "Patricio Rey y sus Redonditos de Ricota",
+    "titulo": "Luzbelito",
+    "lanzamiento": 1995,
+    "tapa": "patricio-rey-y-sus-redonditos-de-ricota-luzbelito.jpg"
+  },
+  {
+    "artista": "Madonna",
+    "titulo": "The Confessions Tour",
+    "lanzamiento": 2007,
+    "tapa": "madonna-the-confessions-tour.jpg"
+  },
+  {
+    "artista": "Divididos",
+    "titulo": "Narigón del Siglo",
+    "lanzamiento": 2000,
+    "tapa": "divididos-narigon-del-siglo.jpg"
+  },
+  {
+    "artista": "Sia",
+    "titulo": "1000 Forms of Fear",
+    "lanzamiento": 2014,
+    "tapa": "sia-1000-forms-of-fear.png"
+  },
+  {
+    "artista": "Coldplay",
+    "titulo": "A Rush of Blood to the Head",
+    "lanzamiento": 2002,
+    "tapa": "coldplay-a-rush-of-blood-to-the-head.jpg"
+  },
+  {
+    "artista": "Pink Floyd",
+    "titulo": "Wish You Were Here",
+    "lanzamiento": 1975,
+    "tapa": "pink-floyd-wish-you-were-here.jpg"
+  },
+  {
+    "artista": "Lenny Kravitz",
+    "titulo": "Circus",
+    "lanzamiento": 1995,
+    "tapa": "lenny-kravitz-circus.jpg"
+  },
+  {
+    "artista": "Mercedes Sosa",
+    "titulo": "Cantora 1",
+    "lanzamiento": 2009,
+    "tapa": "mercedes-sosa-cantora-1.jpg"
+  },
+  {
+    "artista": "Mercedes Sosa",
+    "titulo": "Cantora 2",
+    "lanzamiento": 2009,
+    "tapa": "mercedes-sosa-cantora-2.jpg"
+  },
+  {
+    "artista": "Peter Gabriel",
+    "titulo": "So",
+    "lanzamiento": 1986,
+    "tapa": "peter-gabriel-so.jpg"
+  }
+
+]

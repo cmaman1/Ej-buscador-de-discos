@@ -1,0 +1,1 @@
+mongoimport --db discosdb --collection discos --file discos.json --jsonArray

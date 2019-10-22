@@ -1,0 +1,43 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.filtros > input {
+    font-size: 14px;
+}
+
+.filtro {
+    margin: 10px 0;
+}
+
+label {
+    font-size: 14px;
+    color: black;
+}
+
+#buscar {
+    border: none;
+    background-color: darkblue;
+    color: white;
+    font-size: 14px;
+    padding: 5px 20px;
+    border: 1px solid white;
+}
+
+
+.img-tapa {
+    width: 180px;
+}
+
+.disco {
+    margin: 30px 0;
+}
+
+nav {
+    width: 100%;
+    overflow: hidden;
+    background: #252932;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: white;
+}

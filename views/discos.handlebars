@@ -1,0 +1,18 @@
+{{#if listaDiscos.length}}
+
+<h1>Colección de {{listaDiscos.length}} discos</h1>
+
+{{#each listaDiscos}}
+<div class="disco">
+    <p>Artista: {{this.artista}}</p>
+    <p>Título: {{this.titulo}}</p>
+    <p>Año: <a href="http://es.wikipedia.org/wiki/{{this.lanzamiento}}">{{this.lanzamiento}}</a></p>
+    <img class="img-tapa" src="img/{{this.tapa}}">
+</div>
+{{/each}}
+
+{{else}}
+
+<h1>No hay discos con esos datos.</h1>
+
+{{/if}}
